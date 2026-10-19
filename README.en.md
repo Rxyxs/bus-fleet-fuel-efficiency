@@ -1,4 +1,4 @@
-[Español](README.md) · **English**
+[English ] | [[Español](README.md) ]
 
 # Fuel control for a bus fleet
 
